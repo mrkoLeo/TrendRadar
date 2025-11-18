@@ -1,8 +1,11 @@
-胖东来
-于东来
+PCB
+IC载板
 
-DeepSeek
-梁文锋
+Android
+
+AI
+小米
+雷军
 
 华为
 鸿蒙
@@ -15,32 +18,7 @@ HarmonyOS
 大疆
 DJI
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
+机器人
 
 京东
 刘强东
@@ -57,7 +35,6 @@ Microsoft
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
 
@@ -69,9 +46,6 @@ deepmind
 chatgpt
 openai
 sora
-
-claude
-Anthropic
 
 iphone
 ipad
